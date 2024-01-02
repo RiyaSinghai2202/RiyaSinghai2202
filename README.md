@@ -10,13 +10,13 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyasinghai2202&label=Profile%20views&color=0e75b6&style=flat" alt="riyasinghai2202" /> </p>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working on **Machine learning Projects**
 
-- 🌱 I’m currently learning **Deep learning , computer vision and NLP**
+- 🌱 I’m currently learning **Deep learning and computer vision**
 
 - 📫 How to reach me **riyasinghaijain@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uBDyyCYrax9i8mXdCWqUtWBZ3rzEKIgY/view?usp=drivesdk](https://drive.google.com/file/d/1uBDyyCYrax9i8mXdCWqUtWBZ3rzEKIgY/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uBDyyCYrax9i8mXdCWqUtWBZ3rzEKIgY/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
