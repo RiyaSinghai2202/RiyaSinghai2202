@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **riyasinghaijain@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1uBDyyCYrax9i8mXdCWqUtWBZ3rzEKIgY/view?usp=drivesdk])
+- 📄 You can learn more about my experiences by viewing [my resume](https://drive.google.com/file/d/1saAThbVVmgdYW4kiP4YNG9J9EpAmAQSS/view?usp=drive_link).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
